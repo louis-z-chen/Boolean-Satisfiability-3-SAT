@@ -1,0 +1,6 @@
+c this file mimics the first example above
+c assume this file's name is test.cnf
+p cnf 4 3
+1 2 -4 0
+3 0
+-1 -2 0
